@@ -1,0 +1,5 @@
+*.idea
+
+akka-spring-mongodb/*.iml
+akka-spring-mongodb/*.idea
+akka-spring-mongodb/target
