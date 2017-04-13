@@ -3,3 +3,11 @@
 akka-spring-mongodb/*.iml
 akka-spring-mongodb/*.idea
 akka-spring-mongodb/target
+
+akka-sbt-mongodb-remote-server/*.idea
+akka-sbt-mongodb-remote-server/target
+akka-sbt-mongodb-remote-server/project/target
+
+akka-sbt-mongodb-remote-client/*.idea
+akka-sbt-mongodb-remote-client/target
+akka-sbt-mongodb-remote-client/project/target
